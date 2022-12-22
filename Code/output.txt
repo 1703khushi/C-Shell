@@ -1,0 +1,22 @@
+sleep 100
+
+sleep 100
+
+jobs
+bg 1
+jobs
+sig 1 9
+
+jobs
+exit
+history
+cat theeke.txt | head-7 | tail -5
+cat text.txt | wc
+cat theeke.txt | head -7 | tail -5
+echo rhythm > ok.txt
+cat ok.txt
+cat ok.txt | wc
+sleep 100
+jobs
+12
+162
