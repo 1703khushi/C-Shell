@@ -1,5 +1,3 @@
-# _OSN Mid-Submission Assignment - 2_
-
 #### Name - Khushi
 
 #### Roll No. - 2021101017
